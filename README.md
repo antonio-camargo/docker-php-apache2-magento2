@@ -28,9 +28,15 @@
 
 <p>Agora vamos instalar uma imagem extra virtual do ubuntu. <p>
 
-<pre>#apt-get install -y \ linux-image-extra-$(uname -r) \ linux-image-extra-virtual</pre>
+<pre>#apt-get install -y \
+     Linux-image-extra - $ (uname -r) \
+     Linux-image-extra-virtual</pre>
 
-<pre>#apt-get install -y \ apt-transport-https \ ca-certificates \ curl \ software-properties-common</pre>
+<pre>#apt-get install -y \
+     Apt-transport-https \
+     Ca-certificates \
+     ondulação \
+     Software-propriedades-comum</pre>
 
 <p>Agora vamos instalar o docker.<p>
 
